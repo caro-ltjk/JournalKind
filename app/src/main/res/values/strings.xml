@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JournalKind</string>
+    <string name="subtitle_capture_creativity">☆ it\'s time to capture your creativity ☆</string>
+    <string name="welcome_message">¡Bienvenido!</string>
+    <string name="btn_create">CREA</string>
+    <string name="section_favorites">Favoritos</string>
+    <string name="desc_panel_crea">Panel Crea</string>
+    <string name="desc_favorite_item">Elemento favorito</string>
+</resources>
