@@ -106,6 +106,15 @@
             android:backgroundTint="#C85272"
             android:padding="12dp" />
 
+        <TextView
+            android:id="@+id/tvCambiarModo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="¿No tienes cuenta? Regístrate"
+            android:textColor="#730C84"
+            android:textStyle="bold" />
+
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
